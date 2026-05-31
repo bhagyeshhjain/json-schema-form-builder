@@ -41,6 +41,7 @@ export default defineConfig(({ mode }) => {
 
   // Default dev/app build mode
   return {
+    base: '/json-schema-form-builder/',
     plugins: [react()],
   }
 })
