@@ -117,7 +117,7 @@ export default function MyFormPage() {
 
 ### Option B: Integrating the JSON Schema
 
-If you prefer to store or parse form structures dynamically, the exported **JSON Schema (Draft 2020-12)** includes custom `x-ui-width` layout cues and is fully compliant with standard parsers:
+If you prefer to store or parse form structures dynamically, the exported **JSON Schema (Draft 2020-12)** includes custom `x-ui-width` layout cues and is fully compliant with standard parses:
 
 ```json
 {
