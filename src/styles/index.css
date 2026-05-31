@@ -1,0 +1,7 @@
+/* ================================================
+   Global Styles Composition
+   ================================================ */
+
+@import './variables.css';
+@import './reset.css';
+@import './animations.css';
